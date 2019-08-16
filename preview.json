@@ -68,7 +68,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T20:33:03.000Z"
+      "original": "2019-08-12T23:00:04.000Z"
     },
     "LF Edge is builds an open source framework for the edge.",
     "LF Edge",
@@ -123,9 +123,9 @@
     {
       "text": "last week",
       "value": "980",
-      "original": "2019-07-24T00:00:00.000Z"
+      "original": "2019-08-06T00:00:00.000Z"
     },
-    "https://github.com/akraino-edge-stack/eliot/commit/ce122e1f967d8b9b8e72d09db28f0dba7ee43cd9",
+    "https://github.com/akraino-edge-stack/eliot/commit/5dcb17b3a8749b3153468062da5b1cf3271e48ae",
     "!E",
     "!E",
     2,
@@ -136,7 +136,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T20:33:03.000Z"
+      "original": "2019-08-12T23:00:04.000Z"
     },
     "LF Edge is builds an open source framework for the edge.",
     "LF Edge",
@@ -168,8 +168,8 @@
       "stars": 0,
       "license": "Unknown License",
       "description": null,
-      "latest_commit_date": "2019-07-24T00:00:00.000Z",
-      "latest_commit_link": "/akraino-edge-stack/eliot/commit/ce122e1f967d8b9b8e72d09db28f0dba7ee43cd9",
+      "latest_commit_date": "2019-08-06T00:00:00.000Z",
+      "latest_commit_link": "/akraino-edge-stack/eliot/commit/5dcb17b3a8749b3153468062da5b1cf3271e48ae",
       "release_date": null,
       "release_link": null,
       "contributors_count": 2,
@@ -200,20 +200,20 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T00:00:00.000Z"
+      "original": "2019-08-12T00:00:00.000Z"
     },
-    "https://github.com/edgexfoundry/edgex-go/commit/eff56a4b8d19fb21afbbc4d7a6046b508fdf6637",
+    "https://github.com/edgexfoundry/edgex-go/commit/c1aeacc82e75c50c564d6c8836073a762f28869d",
     "!E",
     "!E",
     54,
     "https://github.com/edgexfoundry/edgex-go/graphs/contributors",
-    403,
+    404,
     "Apache License 2.0",
     "San Francisco, California",
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-01T19:00:19.000Z"
+      "original": "2019-08-12T15:54:02.000Z"
     },
     "EdgeX Golang Services Monorepo",
     "LF Edge",
@@ -242,11 +242,11 @@
     "edge-x-foundry",
     "https://github.com/edgexfoundry/edgex-go",
     {
-      "stars": 403,
+      "stars": 404,
       "license": "Apache License 2.0",
       "description": "EdgeX Golang Services Monorepo",
-      "latest_commit_date": "2019-08-02T00:00:00.000Z",
-      "latest_commit_link": "/edgexfoundry/edgex-go/commit/eff56a4b8d19fb21afbbc4d7a6046b508fdf6637",
+      "latest_commit_date": "2019-08-12T00:00:00.000Z",
+      "latest_commit_link": "/edgexfoundry/edgex-go/commit/c1aeacc82e75c50c564d6c8836073a762f28869d",
       "release_date": null,
       "release_link": null,
       "contributors_count": 54,
@@ -277,9 +277,9 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T00:00:00.000Z"
+      "original": "2019-08-13T00:00:00.000Z"
     },
-    "https://github.com/lf-edge/eve/commit/7d22bdf2703035f37221ad05dc01ce75f406d3bc",
+    "https://github.com/lf-edge/eve/commit/a8fa147e4ee8392ec08259eb21df65d0bca6bb8a",
     "!E",
     "!E",
     31,
@@ -290,7 +290,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T20:33:03.000Z"
+      "original": "2019-08-12T23:00:04.000Z"
     },
     "EVE is Edge Virtualization Engine ",
     "LF Edge",
@@ -322,8 +322,8 @@
       "stars": 48,
       "license": "Apache License 2.0",
       "description": "EVE is Edge Virtualization Engine ",
-      "latest_commit_date": "2019-08-02T00:00:00.000Z",
-      "latest_commit_link": "/lf-edge/eve/commit/7d22bdf2703035f37221ad05dc01ce75f406d3bc",
+      "latest_commit_date": "2019-08-13T00:00:00.000Z",
+      "latest_commit_link": "/lf-edge/eve/commit/a8fa147e4ee8392ec08259eb21df65d0bca6bb8a",
       "release_date": null,
       "release_link": null,
       "contributors_count": 31,
@@ -350,17 +350,17 @@
     "!E",
     "growth",
     {
-      "text": "about a month",
-      "value": "960",
+      "text": "2 months ago",
+      "value": "950",
       "original": "2019-06-26T11:11:44Z"
     },
     "https://github.com/lf-edge/edge-home-orchestration-go/commit/0be53551594b304ec3f8a8b52facad514fedbd80",
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-30T00:00:00.000Z"
+      "original": "2019-08-07T00:00:00.000Z"
     },
-    "https://github.com/lf-edge/edge-home-orchestration-go/commit/50f3caca3d5e42c8651eb6ba6cfb6c955de4f393",
+    "https://github.com/lf-edge/edge-home-orchestration-go/commit/ad52d9959ccefdc31d75e8615141e2fdc42bec2d",
     "!E",
     "!E",
     8,
@@ -371,7 +371,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T20:33:03.000Z"
+      "original": "2019-08-12T23:00:04.000Z"
     },
     "Home Edge Project",
     "LF Edge",
@@ -403,8 +403,8 @@
       "stars": 4,
       "license": "Apache License 2.0",
       "description": "Home Edge Project",
-      "latest_commit_date": "2019-07-30T00:00:00.000Z",
-      "latest_commit_link": "/lf-edge/edge-home-orchestration-go/commit/50f3caca3d5e42c8651eb6ba6cfb6c955de4f393",
+      "latest_commit_date": "2019-08-07T00:00:00.000Z",
+      "latest_commit_link": "/lf-edge/edge-home-orchestration-go/commit/ad52d9959ccefdc31d75e8615141e2fdc42bec2d",
       "release_date": null,
       "release_link": null,
       "contributors_count": 8,
@@ -506,7 +506,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T20:11:09.000Z"
+      "original": "2019-08-12T18:35:23.000Z"
     },
     "Arm is a multinational semiconductor company that designs, produces, and licenses IP for digital electronic products development.",
     "Arm",
@@ -566,7 +566,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-05T04:53:04.000Z"
+      "original": "2019-08-13T04:19:12.000Z"
     },
     "AT&T is a telecommunications company that provides wireless communications, local exchange, and long-distance services.",
     "AT&T",
@@ -588,7 +588,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    249611829248,
+    251945353216,
     "!E",
     "!E",
     "logos/at-t.svg",
@@ -600,7 +600,7 @@
     "!E",
     "T",
     {
-      "market_cap": 249611829248,
+      "market_cap": 251945353216,
       "effective_ticker": "T"
     }
   ],
@@ -631,7 +631,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-03T15:56:37.000Z"
+      "original": "2019-08-13T03:26:42.000Z"
     },
     "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
     "Baidu",
@@ -653,7 +653,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    37717618688,
+    33279428608,
     "!E",
     "!E",
     "logos/baidu.svg",
@@ -665,7 +665,7 @@
     "!E",
     "BIDU",
     {
-      "market_cap": 37717618688,
+      "market_cap": 33279428608,
       "effective_ticker": "BIDU"
     }
   ],
@@ -696,7 +696,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-05T00:14:01.000Z"
+      "original": "2019-08-12T23:23:23.000Z"
     },
     "Dell EMC enables digital transformation with trusted solutions for the modern data center.",
     "Dell EMC",
@@ -718,7 +718,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    37659938816,
+    35576098816,
     "!E",
     "!E",
     "logos/dell-emc.svg",
@@ -730,7 +730,7 @@
     "!E",
     "!E",
     {
-      "market_cap": 37659938816,
+      "market_cap": 35576098816,
       "effective_ticker": "DELL"
     }
   ],
@@ -817,7 +817,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-05T02:25:04.000Z"
+      "original": "2019-08-12T22:00:27.000Z"
     },
     "Ericsson is a technology company that provides and operates telecommunications networks, television and video systems, and related services.",
     "Ericsson",
@@ -839,7 +839,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    28556410880,
+    28457254912,
     "!E",
     "!E",
     "logos/ericsson.svg",
@@ -851,7 +851,7 @@
     "!E",
     "ERIC",
     {
-      "market_cap": 28556410880,
+      "market_cap": 28457254912,
       "effective_ticker": "ERIC"
     }
   ],
@@ -882,7 +882,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-05T05:00:04.000Z"
+      "original": "2019-08-12T21:15:02.000Z"
     },
     "Fujitsu provides information technology and communications solutions.",
     "Fujitsu",
@@ -942,7 +942,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-03T14:59:00.000Z"
+      "original": "2019-08-12T15:41:35.000Z"
     },
     "GE Global Research owns and operates a network of innovation centers that make advancements in science and technology.",
     "GE Global Research",
@@ -963,7 +963,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    87270694912,
+    78979981312,
     "!E",
     "!E",
     "logos/ge-research.svg",
@@ -975,7 +975,7 @@
     "!E",
     "GE",
     {
-      "market_cap": 87270694912,
+      "market_cap": 78979981312,
       "effective_ticker": "GE"
     }
   ],
@@ -1004,9 +1004,9 @@
     "NotOpenSource",
     "Palo Alto, California",
     {
-      "text": "this week",
-      "value": "990",
-      "original": "2019-08-02T14:50:01.000Z"
+      "text": "last week",
+      "value": "980",
+      "original": "2019-08-06T00:00:20.000Z"
     },
     "Hewlett-Packard provides products, technologies, software, solutions, and services to individual consumers and SMBs.",
     "Hewlett-Packard",
@@ -1028,7 +1028,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    30336679936,
+    28461350912,
     "!E",
     "!E",
     "logos/hp.svg",
@@ -1040,7 +1040,7 @@
     "!E",
     "HPQ",
     {
-      "market_cap": 30336679936,
+      "market_cap": 28461350912,
       "effective_ticker": "HPQ"
     }
   ],
@@ -1071,7 +1071,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-03T00:55:25.000Z"
+      "original": "2019-08-12T18:11:00.000Z"
     },
     "Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster.",
     "Hewlett Packard Enterprise",
@@ -1093,7 +1093,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    17770520576,
+    17516081152,
     "!E",
     "!E",
     "logos/hpe.svg",
@@ -1105,7 +1105,7 @@
     "!E",
     "HPE",
     {
-      "market_cap": 17770520576,
+      "market_cap": 17516081152,
       "effective_ticker": "HPE"
     }
   ],
@@ -1136,7 +1136,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-05T02:10:41.000Z"
+      "original": "2019-08-13T03:29:51.000Z"
     },
     "Huawei Technologies provides infrastructure application software and devices with wireline, wireless, and IP technologies.",
     "Huawei Technologies",
@@ -1196,7 +1196,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T18:44:31.000Z"
+      "original": "2019-08-13T05:40:30.000Z"
     },
     "IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.",
     "IBM",
@@ -1218,7 +1218,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    130445099008,
+    118414909440,
     "!E",
     "!E",
     "logos/ibm.svg",
@@ -1230,7 +1230,7 @@
     "!E",
     "IBM",
     {
-      "market_cap": 130445099008,
+      "market_cap": 118414909440,
       "effective_ticker": "IBM"
     }
   ],
@@ -1261,7 +1261,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-04T08:05:09.000Z"
+      "original": "2019-08-12T21:00:29.000Z"
     },
     "Intel designs, manufactures, and sells integrated digital technology platforms worldwide.",
     "Intel",
@@ -1283,7 +1283,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    215652401152,
+    202008002560,
     "!E",
     "!E",
     "logos/intel.svg",
@@ -1295,7 +1295,7 @@
     "!E",
     "INTC",
     {
-      "market_cap": 215652401152,
+      "market_cap": 202008002560,
       "effective_ticker": "INTC"
     }
   ],
@@ -1386,7 +1386,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-03T19:03:04.000Z"
+      "original": "2019-08-12T20:26:08.000Z"
     },
     "Juniper Networks is a news network that designs, develops, and sells products and services, along with network infrastructure.",
     "Juniper Networks",
@@ -1408,7 +1408,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    8935233536,
+    8683440128,
     "!E",
     "!E",
     "logos/juniper-networks.svg",
@@ -1420,7 +1420,7 @@
     "!E",
     "JNPR",
     {
-      "market_cap": 8935233536,
+      "market_cap": 8683440128,
       "effective_ticker": "JNPR"
     }
   ],
@@ -1449,9 +1449,9 @@
     "NotOpenSource",
     "San Francisco, California",
     {
-      "text": "last week",
-      "value": "980",
-      "original": "2019-07-26T14:45:44.000Z"
+      "text": "this week",
+      "value": "990",
+      "original": "2019-08-13T02:55:58.000Z"
     },
     "MobiledgeX is a marketplace of edge computing resources & services.",
     "MobiledgeX",
@@ -1571,7 +1571,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T10:06:59.000Z"
+      "original": "2019-08-12T12:22:08.000Z"
     },
     "Nokia is a Finnish multinational communications corporation engaged in the manufacturing of mobile devices, and network infrastructure.",
     "Nokia",
@@ -1593,7 +1593,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    30660282368,
+    29523333120,
     "!E",
     "!E",
     "logos/nokia.svg",
@@ -1605,7 +1605,7 @@
     "!E",
     "NOK",
     {
-      "market_cap": 30660282368,
+      "market_cap": 29523333120,
       "effective_ticker": "NOK"
     }
   ],
@@ -1636,7 +1636,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-04T04:25:23.000Z"
+      "original": "2019-08-12T00:18:07.000Z"
     },
     "As one of the world’s largest ICT companies, the NTT Group comprises a select group of global technology companies.",
     "Nippon Telegraph and Telephone Corporation",
@@ -1658,7 +1658,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    85557067776,
+    86631538688,
     "!E",
     "!E",
     "logos/ntt-group.svg",
@@ -1670,7 +1670,7 @@
     "!E",
     "NTTYY",
     {
-      "market_cap": 85557067776,
+      "market_cap": 86631538688,
       "effective_ticker": "NTTYY"
     }
   ],
@@ -1701,7 +1701,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T21:05:12.000Z"
+      "original": "2019-08-12T21:00:48.000Z"
     },
     "OSIsoft is a manufacturer of application software for real-time data infrastructure solutions.",
     "OSIsoft",
@@ -1763,7 +1763,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-04T18:18:23.000Z"
+      "original": "2019-08-12T22:46:00.000Z"
     },
     "Qualcomm designs, manufactures, and markets digital wireless telecommunications products and services.",
     "Qualcomm",
@@ -1785,7 +1785,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    86494216192,
+    84853071872,
     "!E",
     "!E",
     "logos/qualcomm.svg",
@@ -1797,7 +1797,7 @@
     "!E",
     "QCOM",
     {
-      "market_cap": 86494216192,
+      "market_cap": 84853071872,
       "effective_ticker": "QCOM"
     }
   ],
@@ -1828,7 +1828,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T16:30:35.000Z"
+      "original": "2019-08-12T16:31:31.000Z"
     },
     "RadiSys is a leading provider of innovative hardware and software platforms for next generation IP-based wireless, wireline and video",
     "Radisys",
@@ -1890,7 +1890,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-04T22:00:11.000Z"
+      "original": "2019-08-12T21:03:04.000Z"
     },
     "Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.",
     "Red Hat",
@@ -1955,7 +1955,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-05T05:33:12.000Z"
+      "original": "2019-08-12T13:02:00.000Z"
     },
     "Samsung Electronics is a South Korean multinational electronics company.",
     "Samsung Electronics",
@@ -1977,7 +1977,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    291668074954752,
+    285811551502336,
     "!E",
     "!E",
     "logos/samsung-electronics.svg",
@@ -1989,7 +1989,7 @@
     "!E",
     "005930.KS",
     {
-      "market_cap": 291668074954752,
+      "market_cap": 285811551502336,
       "effective_ticker": "005930.KS"
     }
   ],
@@ -2020,7 +2020,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T21:30:01.000Z"
+      "original": "2019-08-12T23:43:00.000Z"
     },
     "Seagate offers consumers and businesses with data storage solutions to create, share, and preserve digital content.",
     "Seagate Technology PLC",
@@ -2042,7 +2042,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    12438556672,
+    12058284032,
     "!E",
     "!E",
     "logos/seagate-technology.svg",
@@ -2054,7 +2054,7 @@
     "!E",
     "!E",
     {
-      "market_cap": 12438556672,
+      "market_cap": 12058284032,
       "effective_ticker": "STX"
     }
   ],
@@ -2103,7 +2103,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    443838201856,
+    410318274560,
     "!E",
     "!E",
     "logos/tencent.svg",
@@ -2115,7 +2115,7 @@
     "!E",
     "TCEHY",
     {
-      "market_cap": 443838201856,
+      "market_cap": 410318274560,
       "effective_ticker": "TCEHY"
     }
   ],
@@ -2146,7 +2146,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T20:55:06.000Z"
+      "original": "2019-08-12T21:11:06.000Z"
     },
     "Wind River enables companies to develop, run and manage device software faster and more reliably at a lower cost.",
     "Wind River",
@@ -2168,7 +2168,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    215652401152,
+    202008002560,
     "!E",
     "!E",
     "logos/wind-river.svg",
@@ -2180,7 +2180,7 @@
     "!E",
     "!E",
     {
-      "market_cap": 215652401152,
+      "market_cap": 202008002560,
       "effective_ticker": "INTC"
     }
   ],
@@ -2211,7 +2211,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-04T16:30:12.000Z"
+      "original": "2019-08-13T04:55:38.000Z"
     },
     "Wipro Limited is a leading global information technology, consulting and business process services company.",
     "Wipro Technologies",
@@ -2233,7 +2233,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    23414986752,
+    22311876608,
     "!E",
     "!E",
     "logos/wipro-technologies.svg",
@@ -2245,7 +2245,7 @@
     "!E",
     "WIT",
     {
-      "market_cap": 23414986752,
+      "market_cap": 22311876608,
       "effective_ticker": "WIT"
     }
   ],
@@ -2276,7 +2276,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T20:56:45.000Z"
+      "original": "2019-08-09T18:54:39.000Z"
     },
     "A Santa Clara, CA-based provider of edge virtualization software & solutions",
     "ZEDEDA",
@@ -2576,7 +2576,7 @@
     {
       "text": "last week",
       "value": "980",
-      "original": "2019-07-22T14:27:03.000Z"
+      "original": "2019-08-06T11:00:00.000Z"
     },
     "DATA AHEAD develops and implements hardware and software solutions for data management and for measurement and testing technology.",
     "DATA AHEAD AG",
@@ -2694,9 +2694,9 @@
     "NotOpenSource",
     "San Sebastian, Spain",
     {
-      "text": "last week",
-      "value": "980",
-      "original": "2019-07-25T13:32:03.000Z"
+      "text": "this week",
+      "value": "990",
+      "original": "2019-08-07T12:32:04.000Z"
     },
     "Enigmedia develops privacy solutions with the robustness, scalability and performance needed to protect sensitive information.",
     "Enigmedia",
@@ -2710,7 +2710,7 @@
       "twitter": "http://twitter.com/_Enigmedia_",
       "linkedin": "https://www.linkedin.com/company/enigmedia",
       "kind": "funding",
-      "funding": 4540274,
+      "funding": 4677332,
       "numEmployeesMin": 11,
       "numEmployeesMax": 50
     },
@@ -2718,7 +2718,7 @@
     "LF Edge Member Company / General",
     "LF Edge Member Company",
     "funding",
-    4540274,
+    4677332,
     "!E",
     "!E",
     "logos/enigmedia.svg",
@@ -2816,7 +2816,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T16:37:59.000Z"
+      "original": "2019-08-12T18:04:57.000Z"
     },
     "FogHorn is a leading developer of “edge intelligence” software for industrial and commercial IoT application solutions.",
     "FogHorn",
@@ -2878,7 +2878,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-05T00:12:01.000Z"
+      "original": "2019-08-13T03:36:44.000Z"
     },
     "ForgeRock digital identity management solutions transform how organizations securely interact with customers, employees, devices, and things",
     "ForgeRock",
@@ -2938,9 +2938,9 @@
     "NotOpenSource",
     "Cambridge, United Kingdom",
     {
-      "text": "this week",
-      "value": "990",
-      "original": "2019-08-02T10:06:18.000Z"
+      "text": "last week",
+      "value": "980",
+      "original": "2019-08-05T10:50:31.000Z"
     },
     "Foundries.io delivers secure, over-the-air updatable software platforms for embedded product development. ",
     "Foundries.io",
@@ -3054,8 +3054,8 @@
     "NotOpenSource",
     "Newcastle Upon Tyne, United Kingdom",
     {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2019-08-01T23:52:04.000Z"
     },
     "IOTech’s aim is to be a leader in the global Edge/Fog IoT platform market through a productized open source business model.",
@@ -3180,7 +3180,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T18:35:09.000Z"
+      "original": "2019-08-12T18:40:06.000Z"
     },
     "KMC Controls is an electronic manufacturing company that provides building automation and control solutions.",
     "KMC Controls",
@@ -3240,7 +3240,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-31T16:52:23.000Z"
+      "original": "2019-08-12T14:02:18.000Z"
     },
     "Linaro™ is the place where engineers from the world's leading technology companies define the future of Linux on ARM.",
     "Linaro",
@@ -3298,9 +3298,9 @@
     "NotOpenSource",
     "Belgrad, Croatia",
     {
-      "text": "last week",
-      "value": "980",
-      "original": "2019-07-23T17:53:05.000Z"
+      "text": "this week",
+      "value": "990",
+      "original": "2019-08-09T13:09:49.000Z"
     },
     "INTERNET OF THINGS PLATFORM",
     "Mainflux",
@@ -3360,7 +3360,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-01T17:35:26.000Z"
+      "original": "2019-08-09T20:18:50.000Z"
     },
     "Marvell Technology is a semiconductor company that specializes in  microprocessor architecture and digital signal processing.",
     "Marvell Technology",
@@ -3382,7 +3382,7 @@
     "LF Edge Member Company / General",
     "LF Edge Member Company",
     "market_cap",
-    16544830464,
+    15811120128,
     "!E",
     "!E",
     "logos/marvell-technology.svg",
@@ -3394,7 +3394,7 @@
     "!E",
     "!E",
     {
-      "market_cap": 16544830464,
+      "market_cap": 15811120128,
       "effective_ticker": "MRVL"
     }
   ],
@@ -3483,7 +3483,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-04T15:05:55.000Z"
+      "original": "2019-08-12T20:48:59.000Z"
     },
     "We enable services to programmatically connect across service meshes - connect users, devices & apps across any set of Internets and clouds.",
     "NetFoundry",
@@ -3599,7 +3599,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-04T16:48:11.000Z"
+      "original": "2019-08-12T20:35:46.000Z"
     },
     "Packet is a bare metal cloud built for developers.",
     "Packet",
@@ -3661,7 +3661,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T19:09:08.000Z"
+      "original": "2019-08-08T22:52:14.000Z"
     },
     "Pluribus Networks is a leader in open networking and next generation software defined networking (SDN)",
     "Pluribus Networks",
@@ -3721,9 +3721,9 @@
     "NotOpenSource",
     "Austin, Texas",
     {
-      "text": "this week",
-      "value": "990",
-      "original": "2019-07-30T13:14:02.000Z"
+      "text": "last week",
+      "value": "980",
+      "original": "2019-08-06T13:34:16.000Z"
     },
     "RackN provides open hybrid automation for SRE & DevOps teams to scale infrastructure.",
     "RackN",
@@ -3785,7 +3785,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-03T00:01:02.000Z"
+      "original": "2019-08-12T16:00:51.000Z"
     },
     "Redis Labs is the open source home and commercial provider of Redis, a database benchmarked as the world’s fastest.",
     "Redis Labs",
@@ -3847,7 +3847,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-01T15:30:11.000Z"
+      "original": "2019-08-08T07:15:08.000Z"
     },
     "Reply is specialises in the design and implementation of solutions based on new communication channels and digital media.",
     "Reply",
@@ -3907,7 +3907,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-03T03:57:55.000Z"
+      "original": "2019-08-09T10:14:35.000Z"
     },
     "SAIC Foundation is a global community organization with over 80 thousand outstanding AI developers in the field of artificial intelligence.",
     "SAIC Foundation Ltd.",
@@ -3965,9 +3965,9 @@
     "NotOpenSource",
     "Boulder, Colorado",
     {
-      "text": "this week",
-      "value": "990",
-      "original": "2019-08-02T13:05:30.000Z"
+      "text": "last week",
+      "value": "980",
+      "original": "2019-08-06T14:06:43.000Z"
     },
     "Section's industry-leading Edge Compute Platform enables engineers to run any workload, anywhere, underpinned by modern DevOps principles.",
     "Section",
@@ -4003,6 +4003,68 @@
     "!E"
   ],
   [
+    "Thunder Software",
+    "http://www.thundersoft.com/",
+    "company",
+    "thundersoft.svg",
+    "https://twitter.com/thundersoft_cn",
+    "https://www.crunchbase.com/organization/thundersoft-company-limited",
+    {
+      "fileName": "thunder-software.svg",
+      "hash": "BON5pUhf8YKwSpOy8I+uekUbL5YICUagT3owvtJWe+I="
+    },
+    "general",
+    "company",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "NotOpenSource",
+    "Beijing, China",
+    {
+      "text": "last week",
+      "value": "980",
+      "original": "2019-07-31T03:31:32.000Z"
+    },
+    "Thundersoft Company offers mobile internet terminal products and operating systems through integrated mobile terminal solutions.",
+    "Thundersoft",
+    {
+      "name": "Thundersoft",
+      "description": "Thundersoft Company offers mobile internet terminal products and operating systems through integrated mobile terminal solutions.",
+      "homepage": "http://www.thundersoft.com",
+      "city": "Beijing",
+      "region": "Beijing",
+      "country": "China",
+      "twitter": "https://twitter.com/thundersoft_cn",
+      "linkedin": "https://www.linkedin.com/company/thundersoft",
+      "kind": "funding",
+      "funding": 15436405,
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "LF Edge Member Company / General",
+    "LF Edge Member Company / General",
+    "LF Edge Member Company",
+    "funding",
+    15436405,
+    "!E",
+    "!E",
+    "logos/thunder-software.svg",
+    "!E",
+    "!E",
+    "thunder-software",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E"
+  ],
+  [
     "Toyota",
     "http://www.toyota.com/",
     "company",
@@ -4029,7 +4091,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-04T13:48:34.000Z"
+      "original": "2019-08-12T21:59:25.000Z"
     },
     "Toyota is a Japanese automotive company that manufactures and markets vehicles to over 170 countries and regions.",
     "Toyota Motor Corporation",
@@ -4051,7 +4113,7 @@
     "LF Edge Member Company / General",
     "LF Edge Member Company",
     "market_cap",
-    186118684672,
+    183159881728,
     "!E",
     "!E",
     "logos/toyota.svg",
@@ -4063,7 +4125,7 @@
     "!E",
     "!E",
     {
-      "market_cap": 186118684672,
+      "market_cap": 183159881728,
       "effective_ticker": "TM"
     }
   ],
@@ -4094,7 +4156,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-04T14:53:43.000Z"
+      "original": "2019-08-12T20:16:17.000Z"
     },
     "Canonical is a computer software company that markets commercial support and related services for Ubuntu and related projects.",
     "Canonical",
@@ -4156,7 +4218,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T15:12:01.000Z"
+      "original": "2019-08-10T18:43:00.000Z"
     },
     "Edge colocation, interconnection and software-defined networking",
     "Vapor IO",
@@ -4214,8 +4276,8 @@
     "NotOpenSource",
     "Austin, Texas",
     {
-      "text": "5 months ago",
-      "value": "920",
+      "text": "6 months ago",
+      "value": "910",
       "original": "2019-02-25T22:37:04.000Z"
     },
     "Vitro Technology Corporation offers hardware and software for IoT connectivity and reporting.",
@@ -4274,8 +4336,8 @@
     "NotOpenSource",
     "Santa Clara, California",
     {
-      "text": "3 weeks ago",
-      "value": "970",
+      "text": "about a month",
+      "value": "960",
       "original": "2019-07-15T17:40:53.000Z"
     },
     "Volterra  Edge Computing SaaS Provider",
@@ -4394,7 +4456,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-31T15:17:02.000Z"
+      "original": "2019-08-08T18:29:00.000Z"
     },
     "A consortium for driving the network and computing infrastructure needs of automotive big data",
     "Automotive Edge Computing Consortium",
@@ -4566,7 +4628,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-01T16:09:29.000Z"
+      "original": "2019-08-12T14:15:09.000Z"
     },
     "Industrial Internet Consortium, a non-profit, open-membership group, catalyzes, coordinates, and enables growth of the industrial internet.",
     "Industrial Internet Consortium",
@@ -4626,7 +4688,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T17:40:03.000Z"
+      "original": "2019-08-12T18:47:01.000Z"
     },
     "\nInfrastructure Mason is a person entrusted with building or managing the physical and logical structures of the Digital Age.",
     "Infrastructure Masons",
@@ -4686,7 +4748,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-02T17:15:29.000Z"
+      "original": "2019-08-12T16:01:51.000Z"
     },
     "Project Haystack is an open source initiative to streamline working with data from the Internet of Things.",
     "Project Haystack",
@@ -4746,7 +4808,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-08-01T17:24:51.000Z"
+      "original": "2019-08-12T14:59:55.000Z"
     },
     "IOL provides independent, broad-based interoperability and conformance testing for data, telecom and storage networking technologies.",
     "InterOperability Laboratory",
