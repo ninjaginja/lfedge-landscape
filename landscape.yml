@@ -39,7 +39,16 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/openstack'
   - category:
     name: Traffic Routing
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: Traffic Routing
+        items:
+          - item:
+            name: NS1
+            homepage_url: 'https://ns1.com/'
+            logo: ns1.svg
+            twitter: 'https://twitter.com/ns1'
+            crunchbase: 'https://www.crunchbase.com/organization/ns1'
   - category:
     name: Platforms
     subcategories:
